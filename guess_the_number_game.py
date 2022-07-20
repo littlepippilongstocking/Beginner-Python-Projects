@@ -1,3 +1,6 @@
+#Dilyana Koleva, July 2022
+#This is a fairly simle guessing game on Python. 
+#The computer chooses a number and the user has to guess it
 import random
 def guess(x):
 	random_number = random.randint(1,x)
