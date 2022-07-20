@@ -1,3 +1,5 @@
+#Dilyana Koleva, July 2022
+#Code adapted from freeCodeCamp.org
 from player import HumanPlayer, RandomComputerPlayer
 import time 
 
