@@ -1,3 +1,6 @@
+#Dilyana Koleva, July 2022
+#Code adapted from freeCodeCamp.org
+
 import math
 import random
 
